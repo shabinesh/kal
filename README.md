@@ -7,27 +7,27 @@ add features and bugs as I use it.
 
 Dual-licensed under MIT or the [UNLICENSE](https://unlicense.org/).
 
-# Installation
+## Installation
 
-<todo>
+todo
 
-# Usage
+## Usage
 
 Kal currently shows the calendar of the current month and list of the
 task associated for the selected date. A new note can be added to the
 date by typing `Ctrl+t` which opens the default editor
 
 The dates can be navigated using:
+
 - `Ctrl+p` navigate to previous week
 - `Ctrl+n` navigate to next week
 - `Ctrl+f` move to next day
-- `Ctrl+b` move to previoud day. 
+- `Ctrl+b` move to previoud day.
+- `Enter` to view the markdown details of task
 
 Key bindings are inspired from emacs.
 
-
-
-# TODO
+## TODO
 
 - Display description
 - The calendar should display other months. 
